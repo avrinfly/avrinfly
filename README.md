@@ -1,4 +1,10 @@
-## Hi there 👋
+I'm a open source enthusiast, good at front-end development.
+
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/avrinfly-x6-contributor.json)](https://github.com/antvis/x6)
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/avrinfly-g6-contributor.json)](https://github.com/antvis/g6)
+![](https://img.shields.io/badge/AntV-G6_User-blue?&logo=antv&color=FFF&labelColor=8B5DFF&logoColor=white)
+
+- 📫 Reach me by [Email](avrinfly@gmail.com)
 
 <!--
 **avrinfly/avrinfly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
